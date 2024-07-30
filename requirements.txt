@@ -1,3 +1,4 @@
 ## day 1 requirements
 yfinance==0.2.41
 matplotlib==3.7.5
+seaborn==0.13.2

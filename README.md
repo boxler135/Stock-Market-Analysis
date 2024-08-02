@@ -36,16 +36,18 @@ I do not take responsibility for any financial losses incurred by replicating th
 - I have also successfully loaded the data using yfinance package.
 - From this very first day, I have come to realise that doing EDA on S&P500 is going to involve a lot of researching about the stock market and writing up on the findings (including historical events like dot-com bubble)
 
-Files created/ worked on:
-- EDA.ipynb
-- README.md
-- requirements.txt
-
----
-
 #### Day 2:
 
 - Plotted histograms for  `Open`, `High`, `Low`, `Close`, `Volume`.
 - Conducted detailed analysis on each plot.
 - Created `Rolling_Mean` and plotted closing price against Date to compare rolling mean curve against normal closing price.
 - Plotted headmap to find out correlations between different features.
+
+#### Day 3:
+
+- Analyzed heatmap, noticed a lot of interesting correlations between features.
+- Done feature engineering to introduce 4 new features.
+- visualised new features to find trends, as well as generate summaries.
+- Completed EDA.
+
+---

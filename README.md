@@ -22,7 +22,7 @@ I do not take responsibility for any financial losses incurred by replicating th
 ## Steps to run:
 1. Ensure you are at the correct file path -> `./STOCK-MARKET-ANALYSIS`
 2. Create virtual environment ``` python -m venv stockanalysis ```
-3. Activate virtual environment, for Windows: `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser` , for MacOS/Linux: `source stockanalysis/bin/activate`
+3. Activate virtual environment, for Windows: `stockanalysis\Scripts\activate` , for MacOS/Linux: `source stockanalysis/bin/activate`
 4. Install dependencies: `pip install -r requirements.txt`
 5. Run `deployment.ipynb` cell by cell and check out final output.
 

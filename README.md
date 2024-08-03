@@ -50,4 +50,11 @@ I do not take responsibility for any financial losses incurred by replicating th
 - visualised new features to find trends, as well as generate summaries.
 - Completed EDA.
 
+#### Day 4:
+
+- Loaded cleaned dataset into model.ipynb
+- Explored various models and came to conclusion with hyperparameter-tuned GBM.
+- Feature importance analysis completed
+- model deployment done in new file `deployment.ipynb`
+
 ---
